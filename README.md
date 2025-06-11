@@ -28,3 +28,60 @@ Um e-commerce pode usar o Armazenamento de Blobs para armazenar imagens de produ
 Backup e Recuperação:
 O Azure oferece serviços de backup e recuperação para proteger os dados do seu e-commerce. O Backup do Azure permite fazer backup de dados e aplicativos locais para a nuvem, enquanto o Armazenamento de Blobs pode ser usado como um destino de backup. 
 Em resumo, ao escolher as opções de armazenamento no Azure para o seu e-commerce, é importante considerar o tipo de dados, a frequência de acesso, os requisitos de escalabilidade e as necessidades de segurança e backup. 
+
+
+💻 Sobre o Projeto
+Este bootcamp avançado foi projetado para capacitar desenvolvedores e profissionais de TI com as habilidades práticas possíveis para construir, implantar e gerenciar aplicações modernas utilizando a plataforma Microsoft Azure. O foco está em tecnologias como App Services, Azure Container Apps, além de conceitos fundamentais de DevOps aplicados ao ecossistema Microsoft.
+
+📚 Pré-requisitos de Habilidades e Níveis de Conhecimento
+Antes de ingressar neste conteúdo, é necessário possuir conhecimento prévio nas seguintes áreas:
+
+Antes de ingressar neste conteúdo, é necessário possuir conhecimento prévio nas seguintes áreas:
+
+Azure | Básico
+
+Git e GitHub | Básico
+
+Lógica de Programação | Intermediário
+
+Conhecimentos de Desenvolvimento Web | Intermediário
+
+Terminal/CLI | Básico
+
+Outros pré-requisitos:
+
+Experiência desejável com alguma linguagem de programação como C#, JavaScript ou Python.
+🛠️ Habilidades e Sub-habilidades que vamos aprender neste conteúdo
+Fundamentos da Plataforma Azure
+
+Serviços de aplicativos
+
+CLI e Portal do Azure
+
+Armazenamento de dados
+
+Contêineres e Orquestração
+
+Aplicativos de contêiner do Azure
+Serviço Azure Kubernetes (AKS)
+Deploy de aplicações em contêineres
+Monitoramento e Desempenho
+
+Insights de aplicação
+Análise de Logs
+Práticas de Observabilidade
+Projeto Final Integrado
+
+Construção de solução ponta a ponta
+Armazenamento em nuvem
+Implantar manual
+🎯 Objetivos e Resultados Esperados
+Após a conclusão do curso/projeto, os estudantes deverão aptos a:
+
+Criar, configurar e gerenciar aplicações modernas utilizando serviços PaaS e CaaS do Microsoft Azure.
+
+Realize a implantação de aplicações web e APIs utilizando Azure App Services e Container Apps.
+
+Monitorar e diagnosticar aplicações usando ferramentas integradas do Azure.
+
+Construir um aplicativo completo com backend em contêiner, armazenando dados na nuvem e com observabilidade configurada.
